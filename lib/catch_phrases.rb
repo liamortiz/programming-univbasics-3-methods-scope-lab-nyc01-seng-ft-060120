@@ -10,3 +10,7 @@ end
 def phrase
   return "It's-a me, Mario!"
 end
+
+def all_phrases(phrase)
+  puts phrase
+end
